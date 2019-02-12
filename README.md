@@ -165,6 +165,7 @@ Work is still in progress!
 
 * **Bernard Adanlessosi** - *Initial work* - [Adanlessossi](https://github.com/adanlessossi)
 
+Please send your feedback to adanlessossi@hotmail.com
 
 ## Acknowledgments
 
